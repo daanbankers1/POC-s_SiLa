@@ -1,0 +1,16 @@
+#video_overlays {
+    position: absolute;
+    background-color: rgba(255, 0, 0, 0.164);
+    z-index: 2;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+  }
+  #video_box{
+      position: relative;
+    height:300px;
+    max-width:300px;
+    
+    }
+
